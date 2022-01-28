@@ -1,7 +1,7 @@
 # IA_practica1
 Práctica 1. Inteligencia Artificial 1
 
-Problema 1
+## Problema 1
 La policía de Gotham está investigando el asesinato a mano armada de Marta. Una
 madre que tenía 4 hijos, todos ellos con hijos sumando 9 nietos en total.
 La hermana de el/la culpable tenía sospechas de dicha persona por lo que procedió
